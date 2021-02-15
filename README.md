@@ -6,6 +6,8 @@ This challenge consisted of two stages:
 1. Solving programming tasks (~ 45 min)
 2. Dynatrace product task
 
+**I won this competition and received the first prize** :tada:
+
 ## Programming tasks
 
 ### Coding task 1
